@@ -4,7 +4,6 @@
   "description": "June 2013 Node Orlando Meetup",
   "main": "index.js",
   "dependencies": {
-    "twitter": "~0.1.18"
   },
   "devDependencies": {},
   "scripts": {
