@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ ! -k socket ] 
+if [ ! -k fifo ] 
 	then
-		mkfifo socket
+		mkfifo fifo
 fi
